@@ -1,3 +1,7 @@
 # All Shell, Text, and TypeScript Files
-- [deploy.sh](./deploy.sh)
-- [run.sh](./run.sh)
+_Synced from ~/aimetaverse with preserved folder structure._
+
+## File Links
+- [deploy.sh](aimetaverse/deploy.sh)
+- [deploy.sh](deploy.sh)
+- [run.sh](run.sh)
