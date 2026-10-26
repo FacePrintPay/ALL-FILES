@@ -1,0 +1,46 @@
+# 2019 Membership
+
+- @alebcay
+- @amyspark
+- @apjanke
+- @bfontaine
+- @chenrui333
+- @claui
+- @colindean
+- @dawidd6
+- @dpo
+- @EricFromCanada
+- @fxcoudert
+- @GauthamGoli
+- @igas
+- @iMichka
+- @issyl0
+- @jacobbednarz
+- @jasontedor
+- @javian
+- @jonchang
+- @ladislas
+- @lembacon
+- @maxim-belkin
+- @MikeMcQuaid
+- @mistydemeo
+- @Moisan
+- @mxcl
+- @reitermarkus
+- @scpeters
+- @Sharpie
+- @sjackman
+- @SMillerDev
+- @tschoonj
+- @tseemann
+- @victorpopkov
+- @vitorgalvao
+- @vszakats
+- @woodruffw
+- @xu-cheng
+- @youtux
+- @zachauten
+- @zbeekman
+- @zmwangx
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=2019-membership.md

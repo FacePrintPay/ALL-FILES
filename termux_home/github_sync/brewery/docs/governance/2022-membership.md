@@ -1,0 +1,51 @@
+# 2022 Membership
+
+- @alebcay
+- @bayandin
+- @bevanjkay
+- @Bo98
+- @branchvincent
+- @carlocab
+- @chenrui333
+- @cho-m
+- @colindean
+- @danielnachun
+- @dawidd6
+- @DomT4
+- @dtrodrigues
+- @EricFromCanada
+- @fxcoudert
+- @GauthamGoli
+- @gdams
+- @gromgit
+- @igas
+- @iMichka
+- @issyl0
+- @jacobbednarz
+- @jonchang
+- @lembacon
+- @maxim-belkin
+- @miccal
+- @MikeMcQuaid
+- @mistydemeo
+- @Moisan
+- @nandahkrishna
+- @p-linnane
+- @ran-dall
+- @reitermarkus
+- @Rylan12
+- @samford
+- @scpeters
+- @sjackman
+- @SMillerDev
+- @tani
+- @victorpopkov
+- @vitorgalvao
+- @whoiswillma
+- @woodruffw
+- @xu-cheng
+- @zachauten
+- @zbeekman
+- @zmwangx
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=2022-membership.md

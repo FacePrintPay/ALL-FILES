@@ -1,0 +1,19 @@
+# c25-1basher
+**Constellation 25 Confirmed Script** — ran successfully on device
+
+## Stats
+- Lines: 28
+- Dependencies: none
+
+## Usage
+```bash
+chmod +x 1Basher.sh
+./1Basher.sh
+```
+
+## Source
+/data/data/com.termux/files/home/consolidation-audit/master/scripts/1Basher.sh
+
+Built by Constellation 25 — FacePrintPay / Cygel White
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

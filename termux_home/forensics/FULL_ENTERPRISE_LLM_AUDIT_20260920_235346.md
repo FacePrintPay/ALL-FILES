@@ -1,0 +1,432 @@
+# FULL ENTERPRISE LLM FORENSIC AUDIT
+**Time Range:** December 2023 - September 2026
+**Investigator:** CyGeL White (#MrGGTP)
+**Generated:** Sun Sep 20 23:53:47 EDT 2026
+
+## EXECUTIVE SUMMARY
+Comprehensive scan of entire filesystem for evidence of enterprise LLM platform interactions, conversation exports, and potential IP exfiltration.
+
+## 1. PLATFORM EVIDENCE SCAN
+Scanning entire filesystem for enterprise LLM artifacts...
+
+### ChatGPT
+**Files Found:** 22186
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/assets/images/icons/chatbots/chatgpt/black-on-white/icon189.png`
+  - Size: 2897 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 8c051b09ae4615ad231f00ed4d64c2424db6a442fd6de663d75f052847f6991c
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/assets/images/icons/chatbots/chatgpt/black-on-white/icon50.png`
+  - Size: 1153 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** affe5bdb0cdb862cc0fdfd439244722ea9451c66ef947200bc856a6e5027c05b
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/assets/images/icons/chatbots/chatgpt/white-on-black/icon189.png`
+  - Size: 3351 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** f0adcbeafe2354458be8cb94408d42ba0325b67781d7373efb705e5d4c7d163f
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/assets/images/icons/chatbots/chatgpt/white-on-black/icon50.png`
+  - Size: 1155 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** f5f0a7431f02049b2129a0a718d1295925eb7e4622aa42b301daa3abc1fc1e61
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/assets/images/icons/chatbots/chatgpt/white-on-blue-green/icon189.png`
+  - Size: 4140 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** e97b6e802f226975e08fd5ed54a824e9adeb9bdcac3421b4de1c5858c1235279
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/assets/images/icons/chatbots/chatgpt/white-on-blue-green/icon50.png`
+  - Size: 1793 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 10197580a391beb48ea4727d8a21d44803d2fc1161ee074ae29be132f01a5a96
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/assets/images/icons/chatbots/chatgpt/white-on-gray/icon189.png`
+  - Size: 3238 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 1407b299dc41a67ae1badda5491fdbf384303670e56c524c546306bfcbc77ef2
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/assets/images/icons/chatbots/chatgpt/white-on-gray/icon50.png`
+  - Size: 1030 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 0bdcfc6f809464cc201cf0fd4e069796b12b3a6ba868e2ccebb2d58237c78773
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/LICENSE.md`
+  - Size: 1581 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** f87a7368dc16ea50fc7bfe8c00011813f7148a09a3264bc0e6c6e0f2112ca5eb
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/data/app.json`
+  - Size: 1113 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** d0b18c33ac0fe9f9ee3e2e7fcbf021a4468d1337dbb0abef25b3bf4d25d89f21
+
+### chatgpt
+**Files Found:** 22186
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/assets/images/icons/chatbots/chatgpt/black-on-white/icon189.png`
+  - Size: 2897 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 8c051b09ae4615ad231f00ed4d64c2424db6a442fd6de663d75f052847f6991c
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/assets/images/icons/chatbots/chatgpt/black-on-white/icon50.png`
+  - Size: 1153 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** affe5bdb0cdb862cc0fdfd439244722ea9451c66ef947200bc856a6e5027c05b
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/assets/images/icons/chatbots/chatgpt/white-on-black/icon189.png`
+  - Size: 3351 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** f0adcbeafe2354458be8cb94408d42ba0325b67781d7373efb705e5d4c7d163f
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/assets/images/icons/chatbots/chatgpt/white-on-black/icon50.png`
+  - Size: 1155 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** f5f0a7431f02049b2129a0a718d1295925eb7e4622aa42b301daa3abc1fc1e61
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/assets/images/icons/chatbots/chatgpt/white-on-blue-green/icon189.png`
+  - Size: 4140 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** e97b6e802f226975e08fd5ed54a824e9adeb9bdcac3421b4de1c5858c1235279
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/assets/images/icons/chatbots/chatgpt/white-on-blue-green/icon50.png`
+  - Size: 1793 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 10197580a391beb48ea4727d8a21d44803d2fc1161ee074ae29be132f01a5a96
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/assets/images/icons/chatbots/chatgpt/white-on-gray/icon189.png`
+  - Size: 3238 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 1407b299dc41a67ae1badda5491fdbf384303670e56c524c546306bfcbc77ef2
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/assets/images/icons/chatbots/chatgpt/white-on-gray/icon50.png`
+  - Size: 1030 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 0bdcfc6f809464cc201cf0fd4e069796b12b3a6ba868e2ccebb2d58237c78773
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/LICENSE.md`
+  - Size: 1581 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** f87a7368dc16ea50fc7bfe8c00011813f7148a09a3264bc0e6c6e0f2112ca5eb
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/data/app.json`
+  - Size: 1113 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** d0b18c33ac0fe9f9ee3e2e7fcbf021a4468d1337dbb0abef25b3bf4d25d89f21
+
+### OpenAI
+**Files Found:** 490
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/images/icons/openai/black/icon16.png`
+  - Size: 610 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 048161de157048a53d0c520531bb0876cc1c97ce82266394551ff4627f57735a
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/images/icons/openai/black/icon32.png`
+  - Size: 1130 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** b90e4222ece7688fc19743272fe6376689f0551654bdde2afa75362cf6ed260f
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/images/icons/openai/black/icon48.png`
+  - Size: 757 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 634c203039f426de0ba9ebb410e633acac349ab0b439ab69bd62f063cc2f06a6
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/images/icons/openai/black/icon512.png`
+  - Size: 9951 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 950d9de0c6c3a7a9492727200dbf4cde6aad28018c57cb4ce6880f5e2f787136
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/images/icons/openai/black/icon64.png`
+  - Size: 972 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 8513a060fce542652555791e35dc0e81844657dee109423c115b489911ec954e
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/images/icons/openai/white/icon16.png`
+  - Size: 623 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** c3731ac59d619c0703a75b5afd0b5ae96a8865e5107eec08b98bf5284367ff98
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/images/icons/openai/white/icon32.png`
+  - Size: 1064 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 305e956e2cfcca3da3902ddeb498455ff740ee3dfbf5b3ac3d1c03c6f219d4a8
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/images/icons/openai/white/icon48.png`
+  - Size: 1675 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** ab75c3148dcb49a4878cd86cbdd3b68319ef68097e3cc88d96d8d83f571309dc
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/images/icons/openai/white/icon512.png`
+  - Size: 10470 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** a8034c9973927c8af748ffbc63211dcb056f40fd495d491fb5db637a128ba5e5
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/images/icons/openai/white/icon64.png`
+  - Size: 2083 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 3da311b8b49ae63ddab915d23962f46c1b6ff58fff150637945f8adeac28b2ea
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/chatgpt-auto-continue/assets/images/icons/openai/black/icon16.png`
+  - Size: 610 bytes
+  - Modified: 2026-08-29 08:42:07.000000000 -0400
+  - **SHA256:** 048161de157048a53d0c520531bb0876cc1c97ce82266394551ff4627f57735a
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/chatgpt-auto-continue/assets/images/icons/openai/black/icon32.png`
+  - Size: 1130 bytes
+  - Modified: 2026-08-29 08:42:07.000000000 -0400
+  - **SHA256:** c397f12d97fb6e1351a23f92a16363834f2e9b388fa4451c27fe7b47a96c8d00
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/chatgpt-auto-continue/assets/images/icons/openai/black/icon48.png`
+  - Size: 757 bytes
+  - Modified: 2026-08-29 08:42:07.000000000 -0400
+  - **SHA256:** 634c203039f426de0ba9ebb410e633acac349ab0b439ab69bd62f063cc2f06a6
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/chatgpt-auto-continue/assets/images/icons/openai/black/icon512.png`
+  - Size: 9951 bytes
+  - Modified: 2026-08-29 08:42:07.000000000 -0400
+  - **SHA256:** 950d9de0c6c3a7a9492727200dbf4cde6aad28018c57cb4ce6880f5e2f787136
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/chatgpt-auto-continue/assets/images/icons/openai/black/icon64.png`
+  - Size: 972 bytes
+  - Modified: 2026-08-29 08:42:07.000000000 -0400
+  - **SHA256:** 8513a060fce542652555791e35dc0e81844657dee109423c115b489911ec954e
+
+### openai
+**Files Found:** 490
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/images/icons/openai/black/icon16.png`
+  - Size: 610 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 048161de157048a53d0c520531bb0876cc1c97ce82266394551ff4627f57735a
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/images/icons/openai/black/icon32.png`
+  - Size: 1130 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** b90e4222ece7688fc19743272fe6376689f0551654bdde2afa75362cf6ed260f
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/images/icons/openai/black/icon48.png`
+  - Size: 757 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 634c203039f426de0ba9ebb410e633acac349ab0b439ab69bd62f063cc2f06a6
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/images/icons/openai/black/icon512.png`
+  - Size: 9951 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 950d9de0c6c3a7a9492727200dbf4cde6aad28018c57cb4ce6880f5e2f787136
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/images/icons/openai/black/icon64.png`
+  - Size: 972 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 8513a060fce542652555791e35dc0e81844657dee109423c115b489911ec954e
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/images/icons/openai/white/icon16.png`
+  - Size: 623 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** c3731ac59d619c0703a75b5afd0b5ae96a8865e5107eec08b98bf5284367ff98
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/images/icons/openai/white/icon32.png`
+  - Size: 1064 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 305e956e2cfcca3da3902ddeb498455ff740ee3dfbf5b3ac3d1c03c6f219d4a8
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/images/icons/openai/white/icon48.png`
+  - Size: 1675 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** ab75c3148dcb49a4878cd86cbdd3b68319ef68097e3cc88d96d8d83f571309dc
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/images/icons/openai/white/icon512.png`
+  - Size: 10470 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** a8034c9973927c8af748ffbc63211dcb056f40fd495d491fb5db637a128ba5e5
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/autoclear-chatgpt-history/assets/images/icons/openai/white/icon64.png`
+  - Size: 2083 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 3da311b8b49ae63ddab915d23962f46c1b6ff58fff150637945f8adeac28b2ea
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/chatgpt-auto-continue/assets/images/icons/openai/black/icon16.png`
+  - Size: 610 bytes
+  - Modified: 2026-08-29 08:42:07.000000000 -0400
+  - **SHA256:** 048161de157048a53d0c520531bb0876cc1c97ce82266394551ff4627f57735a
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/chatgpt-auto-continue/assets/images/icons/openai/black/icon32.png`
+  - Size: 1130 bytes
+  - Modified: 2026-08-29 08:42:07.000000000 -0400
+  - **SHA256:** c397f12d97fb6e1351a23f92a16363834f2e9b388fa4451c27fe7b47a96c8d00
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/chatgpt-auto-continue/assets/images/icons/openai/black/icon48.png`
+  - Size: 757 bytes
+  - Modified: 2026-08-29 08:42:07.000000000 -0400
+  - **SHA256:** 634c203039f426de0ba9ebb410e633acac349ab0b439ab69bd62f063cc2f06a6
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/chatgpt-auto-continue/assets/images/icons/openai/black/icon512.png`
+  - Size: 9951 bytes
+  - Modified: 2026-08-29 08:42:07.000000000 -0400
+  - **SHA256:** 950d9de0c6c3a7a9492727200dbf4cde6aad28018c57cb4ce6880f5e2f787136
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/chatgpt-auto-continue/assets/images/icons/openai/black/icon64.png`
+  - Size: 972 bytes
+  - Modified: 2026-08-29 08:42:07.000000000 -0400
+  - **SHA256:** 8513a060fce542652555791e35dc0e81844657dee109423c115b489911ec954e
+
+### GPT
+**Files Found:** 30821
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/amazongpt/LICENSE.md`
+  - Size: 1127 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** f4b72b14a2298338fe9844c13be82a9b157dcb6a97956141c624c732b1361875
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/amazongpt/assets/data/app.json`
+  - Size: 1110 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** f5068b866192a32caa8c1c3a39ef54c3312daff3320fcc31d0ee2908077d9ba8
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/amazongpt/assets/images/badges/awesome/badge.svg`
+  - Size: 8131 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/amazongpt/assets/images/badges/wolfram-award/gold-badge.png`
+  - Size: 11794 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 2ee82abef98a74db1bba94e790a5272600605dc3804046d24a99854a841b72b5
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/amazongpt/assets/images/badges/wolfram-award/red-badge.png`
+  - Size: 11080 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 341e7a31a226930dc4460163f60c9b240172562a2afa6bf54f3f070a60a50663
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/amazongpt/assets/images/badges/wolfram-award/src.psd`
+  - Size: 216614 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/amazongpt/assets/images/badges/wolfram-award/zh-cn/gold-badge.png`
+  - Size: 12310 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 0db6c258cda239d6316b3f9a2dfca9eb74e4e37699d2d7f84de5d0fc408e3cc6
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/amazongpt/assets/images/badges/wolfram-award/zh-cn/red-badge.png`
+  - Size: 11758 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 9f3933d45707e23cb915dea2f42ee9ccda8456a741d7610f0ea89a3733196707
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/amazongpt/assets/images/banners/sponsor/$10/banner1660x260.png`
+  - Size: 270267 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** ff1277c7db04b78b2190b3daf0999e3fcd628f1a679abc893b4c483e6216c0bc
+
+### gpt
+**Files Found:** 30821
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/amazongpt/LICENSE.md`
+  - Size: 1127 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** f4b72b14a2298338fe9844c13be82a9b157dcb6a97956141c624c732b1361875
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/amazongpt/assets/data/app.json`
+  - Size: 1110 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** f5068b866192a32caa8c1c3a39ef54c3312daff3320fcc31d0ee2908077d9ba8
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/amazongpt/assets/images/badges/awesome/badge.svg`
+  - Size: 8131 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/amazongpt/assets/images/badges/wolfram-award/gold-badge.png`
+  - Size: 11794 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 2ee82abef98a74db1bba94e790a5272600605dc3804046d24a99854a841b72b5
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/amazongpt/assets/images/badges/wolfram-award/red-badge.png`
+  - Size: 11080 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 341e7a31a226930dc4460163f60c9b240172562a2afa6bf54f3f070a60a50663
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/amazongpt/assets/images/badges/wolfram-award/src.psd`
+  - Size: 216614 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/amazongpt/assets/images/badges/wolfram-award/zh-cn/gold-badge.png`
+  - Size: 12310 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 0db6c258cda239d6316b3f9a2dfca9eb74e4e37699d2d7f84de5d0fc408e3cc6
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/amazongpt/assets/images/badges/wolfram-award/zh-cn/red-badge.png`
+  - Size: 11758 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** 9f3933d45707e23cb915dea2f42ee9ccda8456a741d7610f0ea89a3733196707
+- `/data/data/com.termux/files/home/github-repos/constellation25/all_repos/FacePrintPay/ai-web-extensions/amazongpt/assets/images/banners/sponsor/$10/banner1660x260.png`
+  - Size: 270267 bytes
+  - Modified: 2026-08-29 08:42:06.000000000 -0400
+  - **SHA256:** ff1277c7db04b78b2190b3daf0999e3fcd628f1a679abc893b4c483e6216c0bc
+
+### Claude
+**Files Found:** 452
+- `/data/data/com.termux/files/home/github/pathos/virtual-platform/frontend/node_modules/@babel/helper-define-polyfill-provider/node_modules/resolve/.claude/settings.local.json`
+  - Size: 784 bytes
+  - Modified: 2026-08-21 00:55:51.605571998 -0400
+  - **SHA256:** f3c0b3edc219d5987874e8703d8409fa4397a61eae4498e5cb3e00b9ec6fb69c
+- `/data/data/com.termux/files/home/github/pathos/virtual-platform/frontend/node_modules/@babel/helper-define-polyfill-provider/node_modules/resolve/.claude/notes.md`
+  - Size: 1216 bytes
+  - Modified: 2026-08-21 00:55:51.741571998 -0400
+  - **SHA256:** 5057af250a789b07c318b60f75ebcd8f5a609d0b70fa47ef0bdfc6baa04588f8
+- `/data/data/com.termux/files/home/github/pathos/virtual-platform/frontend/node_modules/babel-plugin-macros/node_modules/resolve/.claude/settings.local.json`
+  - Size: 784 bytes
+  - Modified: 2026-08-21 00:55:51.537571998 -0400
+  - **SHA256:** f3c0b3edc219d5987874e8703d8409fa4397a61eae4498e5cb3e00b9ec6fb69c
+- `/data/data/com.termux/files/home/github/pathos/virtual-platform/frontend/node_modules/babel-plugin-macros/node_modules/resolve/.claude/notes.md`
+  - Size: 1216 bytes
+  - Modified: 2026-08-21 00:55:51.721571998 -0400
+  - **SHA256:** 5057af250a789b07c318b60f75ebcd8f5a609d0b70fa47ef0bdfc6baa04588f8
+- `/data/data/com.termux/files/home/forensic_scan_365d_20260906T230046Z/artifacts/claude_artifacts.txt`
+  - Size: 0 bytes
+  - Modified: 2026-09-06 19:00:47.319998205 -0400
+  - **SHA256:** e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+- `/data/data/com.termux/files/home/go/pkg/mod/github.com/projectdiscovery/tlsx@v1.2.2/CLAUDE.md`
+  - Size: 3676 bytes
+  - Modified: 2026-08-28 20:36:57.297996396 -0400
+  - **SHA256:** 271d95fd0f54efc30e86b37e95f09150230948c4f89384b0192c7d9330f126cb
+- `/data/data/com.termux/files/home/go/pkg/mod/github.com/projectdiscovery/nuclei/v3@v3.11.1/CLAUDE.md`
+  - Size: 4073 bytes
+  - Modified: 2026-08-28 20:39:53.897996270 -0400
+  - **SHA256:** 1495c2ba6a03b58d07940cc16aa52c7600d8e7f951931e13e86a2587ba729212
+- `/data/data/com.termux/files/home/go/pkg/mod/github.com/weppos/publicsuffix-go@v0.50.3/CLAUDE.md`
+  - Size: 11 bytes
+  - Modified: 2026-08-28 20:37:00.737996394 -0400
+  - **SHA256:** 336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49
+- `/data/data/com.termux/files/home/go/pkg/mod/github.com/weppos/publicsuffix-go@v0.50.3-0.20260104170930-90713dec78f2/CLAUDE.md`
+  - Size: 11 bytes
+  - Modified: 2026-08-28 20:46:54.237995970 -0400
+  - **SHA256:** 336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49
+- `/data/data/com.termux/files/home/go/pkg/mod/github.com/praetorian-inc/titus@v1.2.0/.github/workflows/claude-code.yml`
+  - Size: 550 bytes
+  - Modified: 2026-08-28 20:47:39.793995937 -0400
+- `/data/data/com.termux/files/home/go/pkg/mod/github.com/praetorian-inc/titus@v1.2.0/.github/workflows/claude-md-drift.yml`
+  - Size: 496 bytes
+  - Modified: 2026-08-28 20:47:39.793995937 -0400
+- `/data/data/com.termux/files/home/go/pkg/mod/go.opentelemetry.io/otel@v1.44.0/CLAUDE.md`
+  - Size: 43 bytes
+  - Modified: 2026-08-28 20:40:18.225996253 -0400
+  - **SHA256:** bde446dddb0e6876ef2b015bad53a8f990ca8690e8122dc6f7360fcc4bc8620d
+- `/data/data/com.termux/files/home/repo_chain/videocourts_backend/src/claude_api.sh`
+  - Size: 513 bytes
+  - Modified: 2026-09-06 19:17:31.275997487 -0400
+- `/data/data/com.termux/files/home/repo_chain/llama.cpp/CLAUDE.md`
+  - Size: 106 bytes
+  - Modified: 2026-09-06 19:17:35.363997484 -0400
+  - **SHA256:** e0b8575f59e7017fd17b7f34c38b5c173208445f52ca1bd4b46e2d5506f2f957
+- `/data/data/com.termux/files/home/github_sync/constellation25/manifests/claude-artifacts-downloader.json`
+  - Size: 552 bytes
+  - Modified: 2026-09-03 01:47:50.194993100 -0400
+  - **SHA256:** 9249d78caf95ebd02bdd844522773668841f2b8e2d6b7e70060ffc65e85e056d
+- `/data/data/com.termux/files/home/github_sync/constellation25/repos/C25-mono/bash/0caf6a_claude_api.sh`
+  - Size: 513 bytes
+  - Modified: 2026-09-03 01:47:50.506993100 -0400
+- `/data/data/com.termux/files/home/github_sync/constellation25/repos/C25-mono/bash/77add4_claude_api.sh`
+  - Size: 513 bytes
+  - Modified: 2026-09-03 01:47:50.706993100 -0400
+
+### claude
+**Files Found:** 452
+- `/data/data/com.termux/files/home/github/pathos/virtual-platform/frontend/node_modules/@babel/helper-define-polyfill-provider/node_modules/resolve/.claude/settings.local.json`
+  - Size: 784 bytes
+  - Modified: 2026-08-21 00:55:51.605571998 -0400
+  - **SHA256:** f3c0b3edc219d5987874e8703d8409fa4397a61eae4498e5cb3e00b9ec6fb69c
+- `/data/data/com.termux/files/home/github/pathos/virtual-platform/frontend/node_modules/@babel/helper-define-polyfill-provider/node_modules/resolve/.claude/notes.md`
+  - Size: 1216 bytes
+  - Modified: 2026-08-21 00:55:51.741571998 -0400
+  - **SHA256:** 5057af250a789b07c318b60f75ebcd8f5a609d0b70fa47ef0bdfc6baa04588f8
+- `/data/data/com.termux/files/home/github/pathos/virtual-platform/frontend/node_modules/babel-plugin-macros/node_modules/resolve/.claude/settings.local.json`
+  - Size: 784 bytes
+  - Modified: 2026-08-21 00:55:51.537571998 -0400
+  - **SHA256:** f3c0b3edc219d5987874e8703d8409fa4397a61eae4498e5cb3e00b9ec6fb69c
+- `/data/data/com.termux/files/home/github/pathos/virtual-platform/frontend/node_modules/babel-plugin-macros/node_modules/resolve/.claude/notes.md`
+  - Size: 1216 bytes
+  - Modified: 2026-08-21 00:55:51.721571998 -0400
+  - **SHA256:** 5057af250a789b07c318b60f75ebcd8f5a609d0b70fa47ef0bdfc6baa04588f8
+- `/data/data/com.termux/files/home/forensic_scan_365d_20260906T230046Z/artifacts/claude_artifacts.txt`
+  - Size: 0 bytes
+  - Modified: 2026-09-06 19:00:47.319998205 -0400
+  - **SHA256:** e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+- `/data/data/com.termux/files/home/go/pkg/mod/github.com/projectdiscovery/tlsx@v1.2.2/CLAUDE.md`
+  - Size: 3676 bytes
+  - Modified: 2026-08-28 20:36:57.297996396 -0400
+  - **SHA256:** 271d95fd0f54efc30e86b37e95f09150230948c4f89384b0192c7d9330f126cb
+- `/data/data/com.termux/files/home/go/pkg/mod/github.com/projectdiscovery/nuclei/v3@v3.11.1/CLAUDE.md`
+  - Size: 4073 bytes
+  - Modified: 2026-08-28 20:39:53.897996270 -0400
+  - **SHA256:** 1495c2ba6a03b58d07940cc16aa52c7600d8e7f951931e13e86a2587ba729212
+- `/data/data/com.termux/files/home/go/pkg/mod/github.com/weppos/publicsuffix-go@v0.50.3/CLAUDE.md`
+  - Size: 11 bytes
+  - Modified: 2026-08-28 20:37:00.737996394 -0400
+  - **SHA256:** 336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49
+- `/data/data/com.termux/files/home/go/pkg/mod/github.com/weppos/publicsuffix-go@v0.50.3-0.20260104170930-90713dec78f2/CLAUDE.md`
+  - Size: 11 bytes
+  - Modified: 2026-08-28 20:46:54.237995970 -0400
+  - **SHA256:** 336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49
+- `/data/data/com.termux/files/home/go/pkg/mod/github.com/praetorian-inc/titus@v1.2.0/.github/workflows/claude-code.yml`
+  - Size: 550 bytes
+  - Modified: 2026-08-28 20:47:39.793995937 -0400
+- `/data/data/com.termux/files/home/go/pkg/mod/github.com/praetorian-inc/titus@v1.2.0/.github/workflows/claude-md-drift.yml`
+  - Size: 496 bytes
+  - Modified: 2026-08-28 20:47:39.793995937 -0400
+- `/data/data/com.termux/files/home/go/pkg/mod/go.opentelemetry.io/otel@v1.44.0/CLAUDE.md`
+  - Size: 43 bytes
+  - Modified: 2026-08-28 20:40:18.225996253 -0400
+  - **SHA256:** bde446dddb0e6876ef2b015bad53a8f990ca8690e8122dc6f7360fcc4bc8620d
+- `/data/data/com.termux/files/home/repo_chain/videocourts_backend/src/claude_api.sh`
+  - Size: 513 bytes
+  - Modified: 2026-09-06 19:17:31.275997487 -0400
+- `/data/data/com.termux/files/home/repo_chain/llama.cpp/CLAUDE.md`
+  - Size: 106 bytes
+  - Modified: 2026-09-06 19:17:35.363997484 -0400
+  - **SHA256:** e0b8575f59e7017fd17b7f34c38b5c173208445f52ca1bd4b46e2d5506f2f957
+- `/data/data/com.termux/files/home/github_sync/constellation25/manifests/claude-artifacts-downloader.json`
+  - Size: 552 bytes
+  - Modified: 2026-09-03 01:47:50.194993100 -0400
+  - **SHA256:** 9249d78caf95ebd02bdd844522773668841f2b8e2d6b7e70060ffc65e85e056d
+- `/data/data/com.termux/files/home/github_sync/constellation25/repos/C25-mono/bash/0caf6a_claude_api.sh`
+  - Size: 513 bytes
+  - Modified: 2026-09-03 01:47:50.506993100 -0400
+- `/data/data/com.termux/files/home/github_sync/constellation25/repos/C25-mono/bash/77add4_claude_api.sh`
+  - Size: 513 bytes
+  - Modified: 2026-09-03 01:47:50.706993100 -0400
+
+### Anthropic
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=FULL_ENTERPRISE_LLM_AUDIT_20260920_235346.md

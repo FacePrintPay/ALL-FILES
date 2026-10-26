@@ -1,0 +1,1 @@
+/data/data/com.termux/files/home/c25-os/chats/raw/861e62_FoodLion-Ingenico-Qwen-Complete.zip/docs/VP_ONE_PAGER.md
